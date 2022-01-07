@@ -1,0 +1,26 @@
+{
+  "name": "garage_rest_api",
+  "version": "1.0.0",
+  "description": "garage management rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyalmol/garage_rest_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyalmol/garage_rest_api/issues"
+  },
+  "homepage": "https://github.com/eyalmol/garage_rest_api#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
